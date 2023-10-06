@@ -1,0 +1,32 @@
+/* WordCounter.css */
+
+.word-counter {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: vertical;
+}
+
+.word-count {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
